@@ -1,7 +1,6 @@
 ---
 title: 关于
 layout: page
-comments:yes
 
 ---
 ###jesson20121020
