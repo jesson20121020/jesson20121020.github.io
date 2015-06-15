@@ -1,0 +1,14 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://jesson20121020.github.io
+highlighter: pygments
+name: jesson20121020
+description: jesson20121020 | Stop talking, start doing.
+author: jesson20121020
+email: xuedengchang@163.com
+duoshuo: jesson20121020
+weibo: xuedengchang
+hub: jesson20121020
+safe: true
+paginate: 100
+about: "程序猿一枚"
