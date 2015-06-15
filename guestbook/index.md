@@ -1,10 +1,9 @@
 ---
+title: 关于
 layout: page
-title: 留言
 comments: yes
-jesson20121020
 ---
-
+###jesson20121020
 ![come on](guest.jpg)
 
 
