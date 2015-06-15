@@ -1,9 +1,9 @@
-###[飘过的小牛](http://github.thinkingbar.com)
+###[jesson20121020的博客](http://jesson20121002.github.io)
 
 ---
 
-本博客运行于 [Jekyll](http://jekyllrb.com) @ [GitHub](http://github.com/niushuai/reading)，博客模板修改自 [WebFrog](http://webfrogs.me/) 的博客。
+本博客运行于 [Jekyll](http://jekyllrb.com) @ [GitHub](http://github.com/jesson20121020/jesson20121020.github.io)，博客模板修改自 [WebFrog](http://webfrogs.me/) 的博客。
 
-飘过的小牛
+欢迎大家访问
 
-2014-03-20
+2015-06-14
