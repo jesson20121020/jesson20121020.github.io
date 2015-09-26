@@ -1,3 +1,12 @@
+---
+layout: post
+title: Android学习之Binder
+categories:
+- Android_kernel
+tags:
+- Android
+---
+
 Binder
 ===
 ---
