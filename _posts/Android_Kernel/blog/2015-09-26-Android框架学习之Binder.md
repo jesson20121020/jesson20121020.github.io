@@ -11,7 +11,7 @@ Binder
 ===
 ---
 Binder是一种架构，这种架构提供了`服务端接口`,`Binder驱动`,`客户端`三个模块,如下所示：
-![](image/binder_framework.png)
+![](../pic/binder_framework.png)
 
 ## 1. 服务端接口
 ---
